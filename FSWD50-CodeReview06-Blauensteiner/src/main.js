@@ -77,9 +77,9 @@ var gbm = new locations("Gedenkstätte Berliner Mauer", "Berlin", "Bernauer Stra
 var hm = new locations("Holocaust Memorial", "Berlin", "Cora Berliner Straße 1", 10117, "img/memorial.png", new Date("24.March 2018 12:45"));
 var but = new locations("Berliner Unterwelten Tour", "Berlin", "Brunnenstraße 105", 13355, "img/unterwelten.png", new Date("24.March 2018 12:45"));
 //Let Restaurants
-var cbh = new restaurants("Clärchens Ballhaus", "Berlin", "Augusttraße 24", 10117, "img/cbh.png", " +49 (0) 162 32 99 750", "Swing Dance Cafe", "https://www.ballhaus.de/de/", new Date("24.March 2018 12:45"));
-var oai = new restaurants("Oak and Ice", "Berlin", "Schönhause Allee 52", 10623, "img/oai.png", " +49 (0) 162 32 99 750", "Superfood Cafe", "https://www.oakandice.com/", new Date("24.March 2018 12:45"));
-var wdyfl = new restaurants("What do you fancy, Love?", "Berlin", "Knesebeckstraße 68/89", 1070, "img/wdyfl.png", " +49 (0) 162 32 99 750", "Coffe Shop", "http://whatdoyoufancylove.de/", new Date("24.March 2018 12:45"));
+var cbh = new restaurants("Clärchens Ballhaus", "Berlin", "Augusttraße 24", 10117, "img/cbh.png", " +49 (0) 162 32 99 750", "Swing Dance Cafe", "www.ballhaus.de/de/", new Date("24.March 2018 12:45"));
+var oai = new restaurants("Oak and Ice", "Berlin", "Schönhause Allee 52", 10623, "img/oai.png", " +49 (0) 162 32 99 750", "Superfood Cafe", "www.oakandice.com/", new Date("24.March 2018 12:45"));
+var wdyfl = new restaurants("What do you fancy, Love?", "Berlin", "Knesebeckstraße 68/89", 1070, "img/wdyfl.png", " +49 (0) 162 32 99 750", "Coffe Shop", "www.whatdoyoufancylove.de/", new Date("24.March 2018 12:45"));
 var hosw = new restaurants("House of Small Wonder", "Berlin", "Johannisstraße 20", 10117, "img/hosw.png", " +49 (0) 162 32 99 750", "Coffe Shop", "www.houseofsmallwonder.de", new Date("24.March 2018 12:45"));
 //Let Events
 var mumf = new events("Mumford and Sons <br> <small>Songs from the 4th Album</small>", "Berlin", "Mercedes Platz 1", 10234, "img/mumf.png", "Fr, 22.05.2019", "20:00", 49.00);

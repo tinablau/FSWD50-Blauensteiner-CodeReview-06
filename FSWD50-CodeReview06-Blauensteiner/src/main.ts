@@ -104,9 +104,9 @@ let but = new locations("Berliner Unterwelten Tour", "Berlin", "Brunnenstraße 1
 
 //Let Restaurants
 
-let cbh = new restaurants("Clärchens Ballhaus", "Berlin", "Augusttraße 24", 10117, "img/cbh.png", " +49 (0) 162 32 99 750", "Swing Dance Cafe", "https://www.ballhaus.de/de/", new Date("24.March 2018 12:45"));
-let oai = new restaurants("Oak and Ice", "Berlin", "Schönhause Allee 52", 10623, "img/oai.png", " +49 (0) 162 32 99 750", "Superfood Cafe", "https://www.oakandice.com/", new Date("24.March 2018 12:45"));
-let wdyfl = new restaurants("What do you fancy, Love?", "Berlin", "Knesebeckstraße 68/89", 1070, "img/wdyfl.png", " +49 (0) 162 32 99 750", "Coffe Shop", "http://whatdoyoufancylove.de/", new Date("24.March 2018 12:45"));
+let cbh = new restaurants("Clärchens Ballhaus", "Berlin", "Augusttraße 24", 10117, "img/cbh.png", " +49 (0) 162 32 99 750", "Swing Dance Cafe", "www.ballhaus.de/de/", new Date("24.March 2018 12:45"));
+let oai = new restaurants("Oak and Ice", "Berlin", "Schönhause Allee 52", 10623, "img/oai.png", " +49 (0) 162 32 99 750", "Superfood Cafe", "www.oakandice.com/", new Date("24.March 2018 12:45"));
+let wdyfl = new restaurants("What do you fancy, Love?", "Berlin", "Knesebeckstraße 68/89", 1070, "img/wdyfl.png", " +49 (0) 162 32 99 750", "Coffe Shop", "www.whatdoyoufancylove.de/", new Date("24.March 2018 12:45"));
 let hosw = new restaurants("House of Small Wonder", "Berlin", "Johannisstraße 20", 10117, "img/hosw.png", " +49 (0) 162 32 99 750", "Coffe Shop", "www.houseofsmallwonder.de", new Date("24.March 2018 12:45"));
 
 //Let Events
